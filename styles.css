@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(220, 220, 220, 0.25);
+    font-size: 20px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+h1 {
+    color: rgb(209, 17, 68);
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    /* background-color: rgba(95, 158, 160, 0.25); */
+
+}
+
+a:link {
+    color: #000000;
+}
+
+a:hover {
+    color: rgb(209, 17, 68);
+}
+
