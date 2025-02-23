@@ -1,19 +1,19 @@
 body {
-    background-color: rgba(220, 220, 220, 0.25);
+    background-color: rgba(248, 217, 185, 0.25);
     margin-left: 25%;
     margin-right: 25%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
-    color: rgb(209, 17, 68);
+    color: rgb(0, 0, 0);
     font-size: 100px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 h2, h3 {
     font-family: Roboto, Arial, Helvetica, sans-serif;
-    font-weight: 800;
+    font-weight: bolder;
 
 }
 
@@ -44,3 +44,17 @@ a:hover {
     color: rgb(209, 17, 68);
 }
 
+.prep,
+.nutrition-facts {
+}
+.no-dec {
+    list-style-type: none;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+.lite-text {
+    font-weight: lighter;
+    font-size: smaller;
+}

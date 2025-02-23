@@ -1,19 +1,24 @@
 body {
-    background-color: rgba(220, 220, 220, 0.25);
+    background-color: rgba(248, 217, 185, 0.25);
     font-size: 20px;
     font-family: Roboto, Arial, Helvetica, sans-serif;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 h1 {
-    color: rgb(209, 17, 68);
+    color: rgb(0, 0, 0);
     font-size: 100px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
 ul {
+    /* width: 400px; */
+    background-color: rgba(149, 200, 113, 0.755);
     text-align: center;
+    padding: 100px;
+    margin: 0 auto;
+    margin-top: -119px;
 }
 
 li {
@@ -28,10 +33,14 @@ a {
 }
 
 a:link {
-    color: #000000;
+    color: rgb(0, 0, 0);
 }
 
 a:hover {
-    color: rgb(209, 17, 68);
+    color: rgb(255, 255, 255);
 }
+
+/* a:visited {
+    color: rgb(25, 66, 229);
+} */
 
